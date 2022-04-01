@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zevora
+- 👋 Hi, I’m Lyan Pena
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently practicing React.js
 - 💞️ I’m looking to collaborate on Software development projects
