@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zevora
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently practicing React.js
 - 💞️ I’m looking to collaborate on Software development projects
 - 📫 How to reach me lyan.pena@yahoo.com
 
