@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently practicing React.js
 - 💞️ I’m looking to collaborate on Software development projects
-- 📫 How to reach me lyan.pena@yahoo.com
+- 📫 How to reach me lyanpena@gmail.com
 
 <!---
 Zevora/Zevora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
