@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lyan Peña
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently practicing React.js
-- 💞️ I’m looking to collaborate on Software development projects
+- ✨ I’m currently practicing React.js
+- 🤝 I’m looking to collaborate on Software development projects
 - 📫 How to reach me lyanpena@gmail.com
 
 <!---
